@@ -1,0 +1,56 @@
+SHARDOOL KAMBLI
+Software Developer | Angular, TypeScript, InsureTech
+Mumbai, Maharashtra | shardoolkambli@gmail.com | +91 9869036715
+LinkedIn: linkedin.com/in/[your-handle] | GitHub: github.com/[your-handle]
+
+PROFESSIONAL SUMMARY
+Software Developer with 4+ years of experience delivering enterprise InsureTech web applications using
+Angular and TypeScript. Built pet insurance policy platforms, product configurators, payment gateway and
+KYC integrations, and customer portals for B2B clients. Experience includes Angular migration (11 to 13),
+UI CI/CD pipelines, and SonarQube/Snyk remediation. Recognized by CTO (Hall of Fame) and Employee of
+the Month.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, HTML5, CSS3, SQL
+Frameworks & Libraries: Angular, REST APIs, JSON, responsive SPA design
+Databases: MySQL
+DevOps & Tools: Bitbucket, Git, CI/CD (UI deployment pipelines), SonarQube, Snyk, WinSCP, PuTTY
+Practices: Agile, Scrum, code review, technical documentation, release management, requirements analysis
+Domain: InsureTech, insurance product configuration, policy administration
+
+PROFESSIONAL EXPERIENCE
+
+Software Developer | Metamorphosys | Mumbai
+02/2022 – Present
+• Delivered 2 InsureTech products—Pet Insurance Policy Platform and Insurance Product Configurator—using
+  Angular, TypeScript, and REST APIs for enterprise clients.
+• Built customer portal journeys (insured/nominee), quotation/proposal screens, and client-specific workflow
+  customization for insurance products and business rules.
+• Integrated payment gateways and KYC verification; developed dynamic UI (cascading dropdowns, save/submit
+  transforms) driven by workflow and API responses.
+• Implemented role-based authentication, menu access control, and view/edit permissions.
+• Migrated Angular 11 to 13 and refactored legacy code into modular architecture; improved maintainability
+  and release stability.
+• Owned UI release management and deployment pipelines; coordinated fixes and enhancements with QA and
+  stakeholders.
+• Resolved SonarQube and Snyk vulnerabilities; improved code quality and security posture.
+• Created technical documentation and led knowledge-sharing sessions for team onboarding.
+
+Intern Software Developer | Tata Digital | Mumbai
+01/2020 – 10/2020
+• Contributed to a women's safety mobile app (Swift, Cocoa Touch): siren/torch, location tracking, and
+  SMS/email alerts.
+• Developed in-app walkthrough for Tata Neu to improve onboarding and user experience.
+• Worked with MySQL and cross-functional teams on feature delivery.
+
+EDUCATION
+Master of Computer Applications (MCA) | VJTI, Mumbai | 2020
+Ranked 25th among 20,000+ candidates in MAH MCA CET 2016
+Bachelor of Computer Applications (BCA) | Atharva College of Engineering, Mumbai | 2016
+
+AWARDS
+• CTO Hall of Fame, Metamorphosys
+• Employee of the Month (multiple), Metamorphosys
+
+OPTIONAL GAP LINE (add if accurate):
+2020–2022: Completed MCA (VJTI) / [freelance, contract, or other work if applicable]
