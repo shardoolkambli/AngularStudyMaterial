@@ -9,3 +9,4 @@
 9.  Apply for Jobs.
 10. Resume - Done. 
 11. Data Structures.
+12. Angular Migration.

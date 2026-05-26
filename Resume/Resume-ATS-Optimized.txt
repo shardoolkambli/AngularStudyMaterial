@@ -1,47 +1,72 @@
 SHARDOOL KAMBLI
 Software Developer | Angular, TypeScript, InsureTech
 Mumbai, Maharashtra | shardoolkambli@gmail.com | +91 9869036715
-LinkedIn: linkedin.com/in/[your-handle] | GitHub: github.com/[your-handle]
+LinkedIn: linkedin.com/in/shardool-kambli-57263017b | GitHub: github.com/[your-handle]
 
 PROFESSIONAL SUMMARY
-Software Developer with 4+ years of experience delivering enterprise InsureTech web applications using
-Angular and TypeScript. Built pet insurance policy platforms, product configurators, payment gateway and
-KYC integrations, and customer portals for B2B clients. Experience includes Angular migration (11 to 13),
-UI CI/CD pipelines, and SonarQube/Snyk remediation. Recognized by CTO (Hall of Fame) and Employee of
-the Month.
+Software Developer with 4+ years of experience building enterprise InsureTech web applications using
+Angular 11+, TypeScript, and REST APIs. Specializes in JSON-driven, multi-tenant solutions including
+pet insurance portals, product configurators, and customer-facing policy journeys. Architected a
+white-label theme engine that eliminated code-level styling deployments. Delivered 7+ major projects
+with 99%+ production stability. CTO Hall of Fame recipient and multiple-time Employee of the Month.
 
 TECHNICAL SKILLS
 Languages: JavaScript, TypeScript, HTML5, CSS3, SQL
-Frameworks & Libraries: Angular, REST APIs, JSON, responsive SPA design
+Frontend: Angular (11–13+), RxJS, NG-ZORRO, Taiga UI, Bootstrap, responsive SPA design, multi-tenant UI
+APIs & Data: REST APIs, JSON, workflow-driven forms, local caching, draft persistence
 Databases: MySQL
-DevOps & Tools: Bitbucket, Git, CI/CD (UI deployment pipelines), SonarQube, Snyk, WinSCP, PuTTY
-Practices: Agile, Scrum, code review, technical documentation, release management, requirements analysis
-Domain: InsureTech, insurance product configuration, policy administration
+Tools: Git, Bitbucket, JIRA, SonarQube, Snyk, WinSCP, PuTTY
+Practices: Agile, Scrum, sprint planning, code review, technical documentation, release management,
+  cross-functional collaboration, requirements analysis, mentoring
+Domain: InsureTech, insurance product configuration, policy administration, claims workflows
 
 PROFESSIONAL EXPERIENCE
 
 Software Developer | Metamorphosys | Mumbai
 02/2022 – Present
-• Delivered 2 InsureTech products—Pet Insurance Policy Platform and Insurance Product Configurator—using
-  Angular, TypeScript, and REST APIs for enterprise clients.
-• Built customer portal journeys (insured/nominee), quotation/proposal screens, and client-specific workflow
-  customization for insurance products and business rules.
-• Integrated payment gateways and KYC verification; developed dynamic UI (cascading dropdowns, save/submit
-  transforms) driven by workflow and API responses.
-• Implemented role-based authentication, menu access control, and view/edit permissions.
-• Migrated Angular 11 to 13 and refactored legacy code into modular architecture; improved maintainability
-  and release stability.
-• Owned UI release management and deployment pipelines; coordinated fixes and enhancements with QA and
-  stakeholders.
-• Resolved SonarQube and Snyk vulnerabilities; improved code quality and security posture.
-• Created technical documentation and led knowledge-sharing sessions for team onboarding.
+
+Insurance Product Configurator (Claims & Provider Management)
+• Built scalable Insurance Product Configurator modules using Angular and NG-ZORRO; optimized workflow
+  handling and backend data transforms to streamline policy and premium setup.
+• Developed an extensible Product Wizard and JSON-driven Master Data UIs, reducing manual maintenance
+  and configuration defects through improved workflow stability.
+• Architected a JSON-driven theme engine for white-labeling across Claims and Provider Management apps,
+  enabling instant client branding updates without additional code deployments.
+• Engineered multi-tenant UI screens with dynamic workflows and role-based access controls tied to
+  real-time claim stages.
+• Owned Product Configurator, Claim Report, and Business Rules Center modules from development through
+  production deployment.
+
+Pet Insurance Portal (Customer Portal)
+• Delivered Prequote, Proposal, and KYC flows using Taiga UI and REST APIs for end-to-end user data
+  management.
+• Built automated premium calculation and eligibility workflows for accurate real-time quotes from
+  complex product rules.
+• Implemented local data caching and draft-saving to prevent data loss and ensure session persistence
+  during API failures.
+• Delivered secure payment gateway return-handling for seamless workflow continuity through policy
+  approval.
+• Developed customer portal features for policy access, claims visibility, and real-time updates;
+  integrated authentication, policy details, and communication APIs.
+
+Release, Quality & Collaboration
+• Orchestrated release enhancements and production hotfixes, maintaining 99%+ application stability;
+  authored technical documentation for team-wide scalability.
+• Executed Agile and Scrum using Jira for sprint planning, issue tracking, and documentation.
+• Partnered with BA, QA, DevOps, and backend teams on integrated, high-performance delivery.
+• Mentored junior developers on coding standards, debugging, and architectural patterns.
+• Facilitated requirement gathering, change-request analysis, and stakeholder feedback sessions.
 
 Intern Software Developer | Tata Digital | Mumbai
 01/2020 – 10/2020
-• Contributed to a women's safety mobile app (Swift, Cocoa Touch): siren/torch, location tracking, and
-  SMS/email alerts.
-• Developed in-app walkthrough for Tata Neu to improve onboarding and user experience.
-• Worked with MySQL and cross-functional teams on feature delivery.
+• Developed features for a company-wide women's safety mobile app (Swift, Cocoa Touch): one-touch
+  siren/torch, real-time location tracking, and SMS/email battery alerts for emergencies.
+• Designed and implemented an in-app walkthrough for Tata Neu to improve onboarding and engagement.
+• Worked with MySQL and cross-functional teams on application development and backend integration.
+
+CAREER NOTE
+Oct 2020 – Feb 2022: Completed Master of Computer Applications (MCA), VJTI Mumbai; professional
+development and transition to full-time software development role.
 
 EDUCATION
 Master of Computer Applications (MCA) | VJTI, Mumbai | 2020
@@ -51,6 +76,3 @@ Bachelor of Computer Applications (BCA) | Atharva College of Engineering, Mumbai
 AWARDS
 • CTO Hall of Fame, Metamorphosys
 • Employee of the Month (multiple), Metamorphosys
-
-OPTIONAL GAP LINE (add if accurate):
-2020–2022: Completed MCA (VJTI) / [freelance, contract, or other work if applicable]
